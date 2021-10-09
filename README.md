@@ -1,2 +1,2 @@
 # Computational-Physics
-Computational Physics course of Novosibirsk State University
+Tasks for Computational Physics course of Novosibirsk State University, Physics Department, APTI 2021
